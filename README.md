@@ -3,7 +3,6 @@
 by python
 ---
 1. **Dodge-Leaves(2018.12)** : 나뭇잎 피하기 게임
-![게임 플레이 이미지](/Dodge-Leaves/image/Dodge_Leaves_play_image.png)
   > - 처음 만들어본 게임!!  
   > - pygame으로 gui구현
   > - 게임룰은 Dodge-Leaves/ 참고
